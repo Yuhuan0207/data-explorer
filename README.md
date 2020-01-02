@@ -11,7 +11,18 @@ The goal for this project is to build a csv data explorer for business team.
 
 
 ## Progress
-[Jan 1, 2020] Exploring existing libraries as options
+- [Jan 1, 2020] 
+	- Exploring existing libraries as options
+	- Tried out Google Spreadsheet API, facing `ModuleNotFoundError: No module named 'googleapiclient'` Error. Try with setting up virtual env again.
+
+
+## Existing Tool Exploration Note
+### 1. Google Spreadsheet API
+- Per [GSpreadsheet API V4 Python Quickstart Document](https://developers.google.com/sheets/api/quickstart/python), download credential and create `gsheet_quickstart.py`
+
+
+
+
 
 ## References
 ### Articles
