@@ -6,8 +6,8 @@ The goal for this project is to build a csv data explorer for business team.
 **Functionalities**
 1. Import csv file from sftp
 2. Print the csv file in a web app with a interface similar to MS Excel
-  - Header
-  - Top 100 lines in the spreadsheet 
+    - Header
+    - Top 100 lines in the spreadsheet 
 
 
 ## Progress
